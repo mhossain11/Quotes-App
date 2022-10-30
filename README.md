@@ -2,6 +2,7 @@
 This is a simple text copy app.This text can be copied and pasted elsewhere.
 
 #Library
+
 Binding
 Retrofit
 Gson
